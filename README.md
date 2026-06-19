@@ -16,3 +16,16 @@ A modern take would auto-generate the proposal from Jira / Linear backlog state,
 
 ---
 Author: **Vittobha Vignesh S** · License: MIT
+
+---
+
+## 🚀 Live Prototype
+**[https://vittobh.github.io/sample-ecommerce-sprint-proposal/](https://vittobh.github.io/sample-ecommerce-sprint-proposal/)**
+
+Working front-end with light + dark mode (toggle in header). Mock backend by default; add an Anthropic/Gemini/Grok key to browser localStorage to attempt live calls.
+
+## 🤖 AI Use Cases (2026)
+See **[AI_USE_CASES.md](AI_USE_CASES.md)** — agentic upgrade plan, OSS stack, concrete prompts, evals.
+
+## ⚠️ Limitations
+See **[LIMITATIONS.md](LIMITATIONS.md)** — what's mocked vs needs API keys / server proxy.

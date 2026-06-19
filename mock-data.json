@@ -1,0 +1,13 @@
+{"stories":[
+{"id":"US01","title":"Checkout flow redesign","sp":34,"hrs":107},
+{"id":"US02","title":"Cart persistence","sp":21,"hrs":37},
+{"id":"US03","title":"Search relevance","sp":34,"hrs":77},
+{"id":"US04","title":"Promo codes","sp":21,"hrs":81},
+{"id":"US05","title":"Address validation","sp":17,"hrs":31},
+{"id":"US06","title":"Recommendation engine","sp":21,"hrs":82}],
+"resources":[
+{"name":"Kumar","util":50,"hrs":60},{"name":"Raj","util":65,"hrs":78},{"name":"Raja","util":80,"hrs":98},
+{"name":"Sachin","util":50,"hrs":50},{"name":"Dhoni","util":50,"hrs":63}],
+"history":[{"sprint":235,"velocity":118},{"sprint":236,"velocity":131},{"sprint":237,"velocity":122},{"sprint":238,"velocity":124},{"sprint":239,"velocity":129},{"sprint":240,"velocity":121},{"sprint":241,"velocity":126},{"sprint":242,"velocity":128}],
+"calibration":{"US01":29,"US03":31,"US06":18},
+"risk_forecast":"⚠ Sprint at risk. Total SP (148) exceeds 8-sprint avg velocity (125). Recommend: defer US06 (21 SP) or split US01. Confidence 78%."}
